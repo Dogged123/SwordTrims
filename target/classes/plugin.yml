@@ -1,0 +1,5 @@
+name: SwordTrims
+version: '1.0'
+main: dogged.swordtrims.SwordTrims
+api-version: '1.20'
+authors: [Dogged]

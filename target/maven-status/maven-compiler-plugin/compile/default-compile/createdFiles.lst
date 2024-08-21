@@ -1,0 +1,4 @@
+dogged\swordtrims\SwordTrims.class
+dogged\swordtrims\utilties\ItemBuilder.class
+dogged\swordtrims\listeners\SmithingTableListener.class
+dogged\swordtrims\listeners\SwordListener.class
